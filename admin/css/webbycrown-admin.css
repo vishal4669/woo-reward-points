@@ -1,0 +1,45 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .post_editor_list.ddd {
+ 	padding: 15px;
+ }
+
+ .navigation ul {
+ 	text-align: center;
+ 	/*text-align: end;*/
+ 	padding: 0;
+ }
+
+ .navigation li a,
+ .navigation li a:hover,
+ .navigation li.active a,
+ .navigation li.disabled {
+ 	/*color: #fff;*/
+ 	color: #2f2a2a;
+ 	text-decoration:none;
+ }
+
+ .navigation li {
+ 	display: inline;
+ 	margin: 2px;
+ }
+
+ .navigation li a,
+ .navigation li a:hover,
+ .navigation li.active a,
+ .navigation li.disabled {
+ 	background-color: #9cafa8;
+ 	border-radius: 5px;
+ 	cursor: pointer;
+ 	padding: 10px;
+ 	margin: 5px;
+ }
+
+ .navigation li a:hover,
+ .navigation li.active a {
+ 	background-color: #b2d2c6;
+ 	border: 1px solid #000;
+ }
