@@ -1,1 +1,0 @@
-# woo-reward-points
